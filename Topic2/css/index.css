@@ -60,7 +60,11 @@ color: lightskyblue;
 .end {
 
     color: brown;
-
 }
 
+.table {
+color: black;
+margin-left: 400px;
+background-color:  aquamarine;
+}
 
